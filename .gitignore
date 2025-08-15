@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+.env.test
+.env.local
+.env.production
+
+# IDE
+.vscode/
+
+# Build outputs
+dist/
+build/
+
+# NestJS specific
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Upload directory
+uploads/
+
+
+# Webpack
+.webpack/
+
+
